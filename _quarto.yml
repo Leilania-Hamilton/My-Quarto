@@ -3,16 +3,15 @@ project:
   output-dir: docs
   resources:
     - .nojekyll
-    - images/author/Bakti.png
+    - images/author/Leila.jpeg
     - epub-reader.html
     - assets/epub-reader.js
 
 book:
-  title: "Quarto Template"
-  author: "Bakti Siregar, M.Sc."
+  title: "Pengantar Statistik"
+  author: "Leilania Hamilton Soares Belo"
   date: today
   description: "Deskripsi singkat tentang buku"
-  cover-image: images/Cover.png
   repo-url: https://github.com/pakardata1/ebook-template-quarto.git
   repo-actions: [edit, issue]
   sidebar:
@@ -52,7 +51,7 @@ format:
     include-after-body: assets/hover-preview.html
     include-in-header:
       text: |
-        <meta name="author" content="Bakti Siregar, M.Sc.">
+        <meta name="author" content="Leilania Hamilton Soares Belo">
   pdf:
     documentclass: book
     pdf-engine: xelatex

@@ -1,10 +1,13 @@
 ---
 # title: "Kata Pengantar"
-author: "Bakti Siregar, M.Sc."
+author: "Leilania Hamilton Soares Belo"
 description: "Deskripsi Singkat"
 ---
 
+
 # Kata Pengantar {.unnumbered}
+
+<img src="Poster ebook.png" style="float: right; width: 35%; margin-left: 15px; margin-bottom: 10px;">
 
 Dengan mengucap syukur kepada Tuhan Yang Maha Esa, saya sangat senang dapat mempersembahkan eBook **"Quarto Template"** kepada para pembaca dan pengguna. eBook ini disusun sebagai panduan praktis untuk membantu mahasiswa, dosen, peneliti, serta praktisi dalam memanfaatkan Quarto sebagai salah satu perangkat untuk menyusun, mengelola, dan menerbitkan dokumen secara profesional.
 
@@ -22,17 +25,18 @@ Saya menyadari bahwa eBook ini masih memiliki ruang untuk penyempurnaan. Oleh ka
 
 Akhir kata, semoga eBook ini dapat menjadi referensi yang bermanfaat dan memberikan kontribusi positif bagi dunia pendidikan, penelitian, dan pengembangan ilmu pengetahuan.
 
-**Bakti Siregar, M.Sc.**  
+
+**Leilania Hamilton Soares Belo**  
 Penulis
 
 
 ## Penulis 
 
-![Foto Bakti Siregar, M.Sc.](images/author/Bakti.png){.author-portrait width=1.5in fig-align="right" fig-pos="H"}
+![Photo Leiliana Hamilton Soares Belo](Leila.jpeg){.author-portrait width=1.5in fig-align="right" fig-pos="H"}
 
-**[Bakti Siregar, M.Sc., CDS](https://www.linkedin.com/in/dsciencelabs/)** bekerja sebagai Dosen di Prodi Sains Data Institut Teknologi Sains Bandung. Beliau adalah meraih gelar Magister-nya dari Departemen Matematika Terapan (Applied Mathematics) National Sun Yat Sen University, Taiwan. Selain mengajar beliau juga pernah bekerja sebagai **Data Scientist Freelance** di perusahaan-perusahaan ternama seperti [JNE](https://www.jne.co.id/id/beranda), [Samora Group](https://www.samoragroup.co.id/home/en), [Pertamina](https://www.pertamina.com/), dan saat ini masih aktif sebagai **Data Scientist Freelance** di [PT. Green City Traffic](PT. Green City Traffic). Beliau memiliki antusiasme khusus dalam mengerjakan proyek (mengajar) Big Data Analytics, Machine Learning, Optimisasi, dan Analisis Time Series di bidang keuangan dan investasi. Keahlian utama yang dimilikinya adalah bahasa pemrograman Statistik seperti R Studio dan Python. Beliau juga sudah terbiasa dalam mengaplikasikan sistem basis data MySQL/NoSQL untuk manajemen data, serta mahir dalam menggunakan tools Big Data seperti Spark dan Hadoop. Beberapa project beliau dapat dilihat di link berikut: [Rpubs](https://rpubs.com/dsciencelabs), [Github](https://github.com/dsciencelabs), [Website](https://dsciencelabs.github.io/web/index.html), dan [Kaggle](https://www.kaggle.com/baktisiregar/code). 
+**[Leiliana Hamilton Soares Belo]**, mahasiswa Program Studi **Sains Data** di Institut Teknologi Sains Bandung (ITSB) angkatan 2026 yang kini sedang menapaki **semester 1**. Sejak langkah pertamaku di bangku kuliah, aku langsung jatuh hati pada dunia data. Bagiku, setiap angka adalah sebuah cerita yang diam-diam menunggu untuk ditemukan, dan rasa penasaran itulah yang terus mendorongku untuk belajar, mencoba hal baru, serta mencari cara agar data bisa dipahami dengan lebih mudah dan menyenangkan. Sebagai mahasiswa baru, aku sedang menata fondasi keilmuanku di bidang Statistika Dasar, Matematika, dan Dasar Pemrograman, sambil mulai berkenalan dengan bahasa pemrograman statistik seperti **R Studio** dan **Python**. Ada tiga hal yang paling membuatku bersemangat: Statistika Dasar, Analisis Data Eksploratif, dan Visualisasi Data. Karena kesamaan tiga hal itu, aku mulai menyelami lebih dalam dunia Data Science, lalu menggunakannya untuk menjawab permasalahan nyata di bidang keuangan, bisnis, hingga sosial. Buku ini kususun sebagai bagian dari perjalanan belajar, sebuah catatan tentang bagaimana aku memahami data dari nol, dengan harapan bisa menjadi teman seperjalanan bagi siapa pun yang juga baru memulai petualangan di dunia Sains Data.
 
-
+s
 ## Ucapan Terima Kasih 
 
 Proses penulisan Tempate eBook ini tidak terlepas dari dukungan berbagai pihak. Saya ingin mengucapkan terima kasih kepada:
